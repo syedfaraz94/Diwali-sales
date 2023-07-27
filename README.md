@@ -7,6 +7,7 @@
 * <p><a href="#link2">Main Goal</a></p>
 * <p><a href="#link3">Data CLeaning or transformation</a></p>
 * <p><a href="#link4">Exploratory Data Analysis</a></p>
+* <p><a href="#link5">Project Learning</a></p>
 
 # <h1 id="link1">Problem Statement</h2>
 <br>
@@ -42,3 +43,33 @@ By removing the null values in the "Amount" column and eliminating irrelevant co
 
 
 # <h4 id="link4"> Exploratory Data Analysis</h4>
+<br>
+Based on the Exploratory Data Analysis (EDA) conducted on the Diwali sales data, several valuable insights have been uncovered regarding customer behavior and preferences during the Diwali sales period. The analysis revealed that a specific customer segment stands out as more likely to purchase products from certain categories. The conclusion drawn from the analysis is as follows:
+
+
+1) Target Customer Segment: Married women aged between 26 to 35 years from the states of Uttar Pradesh (UP), Maharashtra, and Karnataka are more inclined to make purchases during the Diwali sales.
+
+2) Occupation: The analyzed data suggests that these customers are predominantly working in the Information Technology (IT), Healthcare, and Aviation industries.
+
+3) Product Categories: This particular customer segment showed a higher tendency to buy products from the Food, Clothing, and Electronics categories.
+
+4) Marketing Strategy: Considering the strong preference of this customer segment for specific product categories, the company can tailor targeted marketing campaigns to attract and engage these potential buyers. Offering attractive discounts, promotional deals, or loyalty rewards during the Diwali sales might further encourage their purchase behavior.
+
+5) Geographic Focus: Given the significant presence of this customer segment in UP, Maharashtra, and Karnataka, allocating marketing resources and promotions in these regions could yield higher returns during the Diwali sales period.
+
+6) Customer Experience Enhancement: Understanding the preferences and needs of this customer segment will enable the company to enhance the overall customer experience. Personalized product recommendations and customer support catering to their specific interests could further improve customer satisfaction and loyalty.
+
+<br>
+
+## overall General Insight
+
+Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category.
+
+# <h3 id="link5"> Project Learning</h3>
+
++ Performed Data cleaning and manipulation.
++ Performed Exploratory Data Analysis (EDA) using pandas,matplotlib,Seaborn.
++ Improved CUstomer Experience by identifying potential customer across different states ,occupation,gender and age groups.
++ Improved sales by identfying most selling product categories and products which can help to plan inventory and hence meet the demands.
+
+  
